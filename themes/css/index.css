@@ -1,7 +1,7 @@
 /*!
-  * Item: Willy Wonka Theme
-  * Description: Personal Portfolio Website Template
-  * Author/Developer: Sujal
+  * Item: Nelson Patikayi
+  * Description: Personal Portfolio Website
+  * Author/Developer: Nelson Patikayi
   * Version: v1
   */
 @import url('https://fonts.googleapis.com/css?family=Raleway:300&display=swap');
@@ -310,7 +310,7 @@ body{
     justify-content: center;
 }
 .social-media{
-    color: white;
+    color: blue;
     width:  21px;
     ;
     opacity: .6;
